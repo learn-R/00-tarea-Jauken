@@ -78,15 +78,11 @@ R: Alonso Pino Peña
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:no lo sé
+R:
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
 
-Control + S
-
 4. Crea un .Rproject llamado 00-tarea.Rproject
-listo
-
 
 5. En el repositorio, crea una carpeta llamada "imagenes". Dentro de esta carpeta deja una imagen de tu sociólogo/a o cientista social preferido/a. Al archivo debes llamarlo "sociologo-preferido.jpg"
 
